@@ -1,0 +1,22 @@
+# Core dependencies - Versiones compatibles
+langgraph>=0.2.57
+langchain>=0.3.13
+langchain-core>=0.3.30
+langchain-anthropic>=0.3.3
+langchain-openai>=0.2.14
+langchain-community>=0.3.13
+
+# Environment management
+python-dotenv==1.0.1
+
+# HTTP requests (para API de Kualtos)
+httpx>=0.28.1
+requests>=2.32.3
+
+# Utilities
+pydantic>=2.10.4
+typing-extensions>=4.12.2
+
+# Development tools
+jupyter>=1.1.1
+ipython>=8.31.0
